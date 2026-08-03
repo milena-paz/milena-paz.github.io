@@ -1,9 +1,9 @@
 {
     "id": "B33763A2",
-    "path": "D:/Documentos(D)/UFJF/d/homepage/_quarto.yml",
+    "path": "D:/Documentos(D)/UFJF/milena-paz.github.io/quartoproj/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "1302693123",
+    "hash": "2156749964",
     "contents": "",
     "dirty": false,
     "created": 1785767135964.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,22",
+        "cursorPosition": "19,21",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1785767987,
+    "lastKnownWriteTime": 1785770270,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1785767987849,
+    "last_content_update": 1785770270147,
     "read_only": false,
     "read_only_alternatives": []
 }

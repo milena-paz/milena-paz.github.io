@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  title: "homepage"
+  title: "IC Misturas"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: defmisturas.qmd
         text: Misturas
 
 format:
@@ -17,6 +17,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

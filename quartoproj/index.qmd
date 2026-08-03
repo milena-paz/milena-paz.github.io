@@ -1,3 +1,7 @@
 ---
-title: "homepage"
+title: "Início"
 ---
+
+Esta página *web* compila todos os documentos e resumos sobre misturas de densidades finitas desenvolvidos para o projeto de iniciação científica orientado pela professora Camila Borelli Zeller. Com o propósito de tornar acessível as bases desse conhecimento para comunidade acadêmica e geral, [será] desenvolvido um aplicativo de visualização que exemplifique de forma interativa um *case* de população estratificada.
+
+* <p><a href="defmisturas.html">Misturas</a></p>
