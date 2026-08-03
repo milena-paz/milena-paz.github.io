@@ -7,16 +7,4 @@ background-overlay: 0.52
 github-link:
   text: Github
   href: https://github.com/milena-paz
-sections:
-  - id: home
-    nav: HOME
-    title: User Name&ensp;|&ensp;姓名
-    href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
-    icon: bi-file-text-fill
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
-    icon: bi-award-fill
+
