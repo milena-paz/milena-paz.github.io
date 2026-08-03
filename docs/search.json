@@ -5,5 +5,12 @@
     "title": "homepage",
     "section": "",
     "text": "&lt;iframe src=\"misturas.html\" width=\"100%\" height=\"1080px\"&gt;&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Início",
+    "section": "",
+    "text": "Esta página web compila todos os documentos e resumos sobre misturas de densidades finitas desenvolvidos para o projeto de iniciação científica orientado pela professora Camila Borelli Zeller. Com o propósito de tornar acessível as bases desse conhecimento para comunidade acadêmica e geral, [será] desenvolvido um aplicativo de visualização que exemplifique de forma interativa um case de população estratificada.\n\n\nMisturas"
   }
 ]
