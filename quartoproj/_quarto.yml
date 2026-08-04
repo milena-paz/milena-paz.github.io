@@ -2,18 +2,22 @@ project:
   type: website
 
 website:
-  title: "IC Misturas"
+  title: "Misturas Finitas"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: defmisturas.qmd
         text: Misturas
+      - href: defalgoritmo.qmd
+        text: Algoritmo EM
+      - href: defmisturasem.html
+        text: EM para Misturas
 
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
     toc: true
