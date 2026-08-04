@@ -1,4 +1,4 @@
 
 ```{=html}
-<iframe src="misturasem.html" style="width:100%; border:none; height:100vh"></iframe>
+<iframe src="misturasem.html" style="width:100%; border:none;" onload="this.style.height=this.contentWindow.document.body.scrollHeight+'px';"></iframe>
 ```

@@ -1,4 +1,4 @@
 
 ```{=html}
-<iframe src="algoritmoem.html" style="width:100%; border:none;" onload="this.style.height=this.contentWindow.document.body.scrollHeight+'px';"></iframe>
+<iframe src="algoritmoem.html" style="width:100%" onload="this.style.height=this.contentWindow.document.body.scrollHeight+'px';"></iframe>
 ```
