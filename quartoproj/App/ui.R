@@ -29,15 +29,15 @@ fluidPage(theme = shinytheme("readable"),
                        #PAINEL MISTURA
                        inputPanel(textInput("p",
                                             "Proporções:",
-                                            value = "0.5,0.5")),
+                                            value = "0.7,0.3")),
                        inputPanel(textInput("mu",
                                                      "Médias:",
-                                                     value = "165,174",
+                                                     value = "20,50",
                                                   placeholder="")
                                   ,width=5),
                        inputPanel(textInput("sig",
                                "Variâncias:",
-                               value = "16,12")),
+                               value = "25,64")),
                        actionButton("draw_btn", "Desenhar gráfico", class = "btn-primary")
                      ),
                      # Mostra o gráfico da distribuição definida

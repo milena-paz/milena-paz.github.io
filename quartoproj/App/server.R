@@ -21,7 +21,14 @@ server <- function(input, output,session) {
   #plota o grafico
   output$densidade <- renderPlot({
     params <- processa()
-      curve(dMisturaNorm(x,params[[1]],sqrt(params[[2]]),params[[3]]),from=min(params[[1]])-10,to=max(params[[1]])+10,
+    par(mar=c(4.1,4.1,2,1))
+    limites=c(min(params[[1]])-10,max(params[[1]])+10)
+    x=seq(limites[1], limites[2], length.out = 250)
+    y=dMisturaNorm(x,params[[1]],sqrt(params[[2]]),params[[3]])
+      plot(x,y,type="l",
             ylab="Densidade")
+      polygon(c(min(x),x,max(x)), c(0, y, 0), col = "skyblue2", border = NA)
+      lines(x,y,type="l",
+           ylab="Densidade")
   })
 }

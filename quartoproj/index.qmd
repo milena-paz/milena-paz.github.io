@@ -2,7 +2,7 @@
 title: "Início"
 ---
 
-Esta página *web* compila todos os documentos e resumos sobre misturas de densidades finitas desenvolvidos para o projeto de iniciação científica orientado pela professora Camila Borelli Zeller. Com o propósito de tornar acessível as bases desse conhecimento para comunidade acadêmica e geral, [será] desenvolvido um aplicativo de visualização que exemplifique de forma interativa um *case* de população estratificada.
+Esta página *web* compila todos os documentos e resumos sobre misturas de densidades finitas desenvolvidos para o projeto de iniciação científica orientado pela professora Camila Borelli Zeller. Com o propósito de tornar acessível as bases desse conhecimento para comunidade acadêmica e geral, foi desenvolvido um aplicativo de visualização que exemplifique uma situação em que modelos de misturas pode ser útil com o fim de tornar intuitivo o seu uso.
 
 1. <p><a href="defmisturas.html">Misturas</a></p>
 
@@ -11,3 +11,9 @@ Esta página *web* compila todos os documentos e resumos sobre misturas de densi
 2. <p><a href="defalgoritmo.html"> O Algoritmo EM</a></p>
 
 3. <p><a href="defmisturasem.html"> O Algoritmo EM em Modelos Misturas</a></p>
+
+
+
+```{=html}
+<iframe width="105%" height="700px" src="https://milenapaz.shinyapps.io/MisturasNormais/"> </iframe>
+```
