@@ -1,0 +1,13 @@
+name: MisturasNormais
+title: MisturasNormais
+username: hm0kgs-milena-paz0freitas
+account: hm0kgs-milena-paz0freitas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17864504
+bundleId: 12531005
+url: https://milenapaz.shinyapps.io/MisturasNormais/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dadosSimulados.csv

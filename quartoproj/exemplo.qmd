@@ -1,0 +1,5 @@
+---
+title: "Exemplo"
+---
+
+Sabemos da teoria -- o que é um modelo de mistura, como estimar os seus parâmetros e como simular dados --
