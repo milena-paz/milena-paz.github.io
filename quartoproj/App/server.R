@@ -22,7 +22,7 @@ server <- function(input, output,session) {
   output$densidade <- renderPlot({
     params <- processa()
     par(mar=c(4.1,4.1,2,1))
-    limites=c(min(params[[1]])-10,max(params[[1]])+10)
+    limites=c(min(params[[1]])-2.5*sqrt(max(params[[2]])),max(params[[1]])+2.5*sqrt(max(params[[2]])))
     x=seq(limites[1], limites[2], length.out = 250)
     y=dMisturaNorm(x,params[[1]],sqrt(params[[2]]),params[[3]])
       plot(x,y,type="l",

@@ -1,7 +1,7 @@
 library(shiny)
 library(shinythemes)
 options(shiny.sanitize.errors = FALSE)
-fluidPage(theme = shinytheme("readable"),
+fluidPage(theme = shinytheme("readable"),padding=10,
           titlePanel("Misturas Gaussianas: Ferramenta de visualização",
                      windowTitle = "Misturas Gaussianas"),
           withMathJax(),

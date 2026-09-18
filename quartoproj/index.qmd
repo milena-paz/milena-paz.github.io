@@ -12,8 +12,6 @@ Esta página *web* compila todos os documentos e resumos sobre misturas de densi
 
 3. <p><a href="defmisturasem.html"> O Algoritmo EM em Modelos Misturas</a></p>
 
-
-
 ```{=html}
-<iframe width="105%" height="700px" src="https://milenapaz.shinyapps.io/MisturasNormais/"> </iframe>
+<iframe width="105%" height="900px" src="https://milenapaz.shinyapps.io/MisturasNormais/"> </iframe>
 ```
