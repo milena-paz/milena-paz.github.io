@@ -1,8 +1,11 @@
 ---
 title: "Início"
+toc: false
 ---
 
-Esta página *web* compila todos os documentos e resumos sobre misturas de densidades finitas desenvolvidos para o projeto de iniciação científica orientado pela professora Camila Borelli Zeller. Com o propósito de tornar acessível as bases desse conhecimento para comunidade acadêmica e geral, foi desenvolvido um aplicativo de visualização que exemplifique uma situação em que modelos de misturas pode ser útil com o fim de tornar intuitivo o seu uso.
+Esta página *web* compila todos os documentos e resumos sobre misturas de densidades finitas desenvolvidos para o projeto de iniciação científica orientado pela professora Camila Borelli Zeller. Com o propósito de tornar acessível as bases desse conhecimento para comunidade acadêmica e geral, foi desenvolvido um aplicativo de visualização que exemplifique uma situação em que modelos de misturas pode ser útil com o fim de tornar intuitivo o seu comportamento.
+
+## Contéudo teórico:
 
 1. <p><a href="defmisturas.html">Misturas</a></p>
 
